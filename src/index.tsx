@@ -1,4 +1,4 @@
-import "@/setup/pwa";
+oimport "@/setup/pwa";
 import "core-js/stable";
 import "./stores/__old/imports";
 import "@/setup/ga";
